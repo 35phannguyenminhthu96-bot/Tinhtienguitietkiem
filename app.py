@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("logo.jpg")
+st.image("logo.jpg.jpg")
 # Tiêu đề ứng dụng
 st.title("APP TÍNH TIỀN GỬI TIẾT KIỆM_ĐỀ TÀI 5_NGUYỄN HOÀI BẢO TRÂM")
 
